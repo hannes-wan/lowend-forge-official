@@ -22,6 +22,8 @@ Follow the detected bass line against the audio timeline before exporting.
 
 ## Download packages
 
+- [lowend-forge-0.1.3-windows-x64-setup.exe](https://github.com/hannes-wan/lowend-forge-official/releases/download/v0.1.3/lowend-forge-0.1.3-windows-x64-setup.exe)
+
 - [lowend-forge-0.1.3-linux-x64.AppImage](https://github.com/hannes-wan/lowend-forge-official/releases/download/v0.1.3/lowend-forge-0.1.3-linux-x64.AppImage)
 - [lowend-forge-0.1.3-linux-x64.deb](https://github.com/hannes-wan/lowend-forge-official/releases/download/v0.1.3/lowend-forge-0.1.3-linux-x64.deb)
 - [lowend-forge-0.1.3-linux-x64.rpm](https://github.com/hannes-wan/lowend-forge-official/releases/download/v0.1.3/lowend-forge-0.1.3-linux-x64.rpm)
