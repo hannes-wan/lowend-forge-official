@@ -4,7 +4,7 @@
 
 LowEnd Forge is a bass-first transcription workbench: isolate the low-end signal, draft four-string tab, follow the part against the waveform, correct the musical decisions, and export a chart that can leave the room.
 
-[Website](https://hannes-software.com/lowend-forge/) · [Download](https://hannes-software.com/lowend-forge/download/) · [Help](https://hannes-software.com/lowend-forge/help/) · [Latest release](https://github.com/hannes-wan/lowend-forge-official/releases/tag/v0.1.3)
+[Website](https://hannes-software.com/lowend-forge/) · [Download](https://hannes-software.com/lowend-forge/download/) · [Help](https://hannes-software.com/lowend-forge/help/) · [Latest release](https://github.com/hannes-wan/lowend-forge-official/releases/tag/v0.1.4)
 
 ## The problem it solves
 
@@ -54,30 +54,30 @@ Built for bass players, teachers, and transcribers who do not need another gener
 
 ### Bass transcription workbench
 
-![Bass transcription workbench](https://hannes-software.com/assets/lowend-forge/screenshots/workbench-overview-fe2f1dbe42.webp)
+![Bass transcription workbench](https://hannes-software.com/assets/lowend-forge/screenshots/workbench-overview-2460baf22f.webp)
 
 Audio waveform, detected notes, bass tab, chords, and export preview.
 
 ### Bass tab detail
 
-![Bass tab detail](https://hannes-software.com/assets/lowend-forge/screenshots/bass-tab-detail-2c762f1f79.webp)
+![Bass tab detail](https://hannes-software.com/assets/lowend-forge/screenshots/bass-tab-detail-34792e6aa7.webp)
 
 A close view of detected bass lines and fretboard positions.
 
 ### Playback review
 
-![Playback review](https://hannes-software.com/assets/lowend-forge/screenshots/playback-review-7492a24f67.webp)
+![Playback review](https://hannes-software.com/assets/lowend-forge/screenshots/playback-review-9a1ac58ddf.webp)
 
 Follow the detected bass line against the audio timeline before exporting.
 
 ## Download packages
 
-Latest GitHub release: **v0.1.3**
+Latest GitHub release: **v0.1.4**
 
-- [lowend-forge-0.1.3-windows-x64-setup.exe](https://github.com/hannes-wan/lowend-forge-official/releases/download/v0.1.3/lowend-forge-0.1.3-windows-x64-setup.exe)
-- [lowend-forge-0.1.3-linux-x64.AppImage](https://github.com/hannes-wan/lowend-forge-official/releases/download/v0.1.3/lowend-forge-0.1.3-linux-x64.AppImage)
-- [lowend-forge-0.1.3-linux-x64.deb](https://github.com/hannes-wan/lowend-forge-official/releases/download/v0.1.3/lowend-forge-0.1.3-linux-x64.deb)
-- [lowend-forge-0.1.3-linux-x64.rpm](https://github.com/hannes-wan/lowend-forge-official/releases/download/v0.1.3/lowend-forge-0.1.3-linux-x64.rpm)
+- [lowend-forge-0.1.4-windows-x64-setup.exe](https://github.com/hannes-wan/lowend-forge-official/releases/download/v0.1.4/lowend-forge-0.1.4-windows-x64-setup.exe)
+- [lowend-forge-0.1.4-linux-x64.AppImage](https://github.com/hannes-wan/lowend-forge-official/releases/download/v0.1.4/lowend-forge-0.1.4-linux-x64.AppImage)
+- [lowend-forge-0.1.4-linux-x64.deb](https://github.com/hannes-wan/lowend-forge-official/releases/download/v0.1.4/lowend-forge-0.1.4-linux-x64.deb)
+- [lowend-forge-0.1.4-linux-x64.rpm](https://github.com/hannes-wan/lowend-forge-official/releases/download/v0.1.4/lowend-forge-0.1.4-linux-x64.rpm)
 
 Prefer the product page if you want the full download notes, licensing details, and help articles:
 
