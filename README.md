@@ -1,24 +1,48 @@
 # LowEnd Forge
 
-**Extract the line. Forge the chart. Own the low end.**
+[![Community Edition: Free](https://img.shields.io/badge/Community_Edition-Free-16a34a?style=for-the-badge)](https://hannes-software.com/lowend-forge/download/)
+[![Windows](https://img.shields.io/badge/Windows-Desktop-2563eb?style=flat-square&logo=windows)](https://hannes-software.com/lowend-forge/download/) [![Linux](https://img.shields.io/badge/Linux-Desktop-f59e0b?style=flat-square&logo=linux)](https://hannes-software.com/lowend-forge/download/) [![Local first](https://img.shields.io/badge/Workflow-Local--first-7c3aed?style=flat-square)](https://hannes-software.com/lowend-forge/)
+
+> Extract the line. Forge the chart. Own the low end.
 
 LowEnd Forge is a bass-first transcription workbench: isolate the low-end signal, draft four-string tab, follow the part against the waveform, correct the musical decisions, and export a chart that can leave the room.
 
-[Website](https://hannes-software.com/lowend-forge/) · [Download](https://hannes-software.com/lowend-forge/download/) · [Help](https://hannes-software.com/lowend-forge/help/) · [Latest release](https://github.com/hannes-wan/lowend-forge-official/releases/tag/v0.1.4)
+**LowEnd Forge Community Edition is free to download and use.** Bass detection preview and tab viewing for evaluation. Editing, quantization, and export are Professional features.
 
-## The problem it solves
+[Download Community Edition](https://hannes-software.com/lowend-forge/download/) · [Product guide](https://hannes-software.com/lowend-forge/) · [Help](https://hannes-software.com/lowend-forge/help/) · [Report a bug](https://github.com/hannes-wan/lowend-forge-official/issues/new?template=bug_report.yml)
 
-**Bass transcription is not the same job as generic notation.**
+## Download LowEnd Forge 0.1.7
+
+| Platform | Package | Use it when |
+| --- | --- | --- |
+| Linux x64 (APPIMAGE) | [lowend-forge-0.1.7-linux-x64.AppImage](https://github.com/hannes-wan/lowend-forge-official/releases/download/v0.1.7/lowend-forge-0.1.7-linux-x64.AppImage) | Portable Linux desktop package |
+| Linux x64 (DEB) | [lowend-forge-0.1.7-linux-x64.deb](https://github.com/hannes-wan/lowend-forge-official/releases/download/v0.1.7/lowend-forge-0.1.7-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
+| Linux x64 (RPM) | [lowend-forge-0.1.7-linux-x64.rpm](https://github.com/hannes-wan/lowend-forge-official/releases/download/v0.1.7/lowend-forge-0.1.7-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
+| Windows x64 | [lowend-forge-0.1.7-windows-x64-setup.exe](https://github.com/hannes-wan/lowend-forge-official/releases/download/v0.1.7/lowend-forge-0.1.7-windows-x64-setup.exe) | Guided Windows installer |
+
+Checksums, installation notes, and the complete platform matrix live on the [official download page](https://hannes-software.com/lowend-forge/download/).
+
+## Why LowEnd Forge exists
 
 Built for bass players, teachers, and transcribers who do not need another generic notation toy. LowEnd Forge is focused on the job that matters: turning a real recording into a playable, editable bass chart without losing the audio context.
 
-## Why you should try it
+> **Edition boundary:** The technical sections below describe the complete product surface and can include optional licensed workflows. The exact free Community Edition scope is listed separately below.
 
-- You need the bass part, not a generic chord chart.
-- You want a machine-assisted first draft that still respects the bassist’s ear and final decisions.
-- You need editable tab, waveform review, correction, quantization, and export in one bass-first workspace.
+### Stop guessing under the guitars. Put the bass line on the grid.
 
-## What makes it strong
+LowEnd Forge is a local desktop command center for bass isolation, editable four-string tab, waveform-locked review, chord context, follow playback, quantization, and export. It does not pretend dense records are clean data. It gives bass players a faster way to get to the truth.
+
+### Bass-first transcription
+
+Run one focused pass that isolates the bass role, traces the low-register line, maps it to four-string positions, and keeps every note editable.
+
+### Playable four-string tab
+
+Review G-D-A-E string lanes with fret positions, waveform timing, chord regions, and automatic follow playback in one dense workbench.
+
+### MIDI, MusicXML, and PDF export
+
+Export the corrected draft as MIDI, MusicXML, PDF, or text. Quantize only when it helps the chart read like music.
 
 ### The first pass is bass-first
 
@@ -38,74 +62,77 @@ Built for bass players, teachers, and transcribers who do not need another gener
 - Community supports bass detection preview and tab viewing; Professional unlocks export, quantization, and advanced editing.
 - The local workflow is built for private rehearsal files, lesson material, band references, and records that should not be uploaded to a cloud tool.
 
-### $19 lifetime, no subscription leash
+## Community Edition is genuinely useful
 
-- Buy it when a serious editable starting point saves more time than drawing every note from silence.
-- No subscription is required for the Hannes desktop license model, and export is not trapped behind a recurring plan.
-- The value is brutal and simple: analyze, follow, correct, quantize, and export without pretending software can replace a bassist's ear.
+- Chord detection
+- Bass detection
+- Bass tab viewing
 
-## What you can do with it
+Optional licensed workflows are available for people who need the expanded feature set. Licensing details belong on the website; the Community Edition remains the free way to evaluate and use the core product.
 
-- **Bass-first transcription** — Run one focused pass that isolates the bass role, traces the low-register line, maps it to four-string positions, and keeps every note editable.
-- **Playable four-string tab** — Review G-D-A-E string lanes with fret positions, waveform timing, chord regions, and automatic follow playback in one dense workbench.
-- **MIDI, MusicXML, and PDF export** — Export the corrected draft as MIDI, MusicXML, PDF, or text. Quantize only when it helps the chart read like music.
-
-## Screenshots
+## See the real desktop workflow
 
 ### Bass transcription workbench
 
-![Bass transcription workbench](https://hannes-software.com/assets/lowend-forge/screenshots/workbench-overview-2460baf22f.webp)
+![Bass transcription workbench — LowEnd Forge](https://hannes-software.com/assets/lowend-forge/screenshots/workbench-overview-585cd3c2e2.webp)
 
 Audio waveform, detected notes, bass tab, chords, and export preview.
 
 ### Bass tab detail
 
-![Bass tab detail](https://hannes-software.com/assets/lowend-forge/screenshots/bass-tab-detail-34792e6aa7.webp)
+![Bass tab detail — LowEnd Forge](https://hannes-software.com/assets/lowend-forge/screenshots/bass-tab-detail-9d1bdd6726.webp)
 
 A close view of detected bass lines and fretboard positions.
 
 ### Playback review
 
-![Playback review](https://hannes-software.com/assets/lowend-forge/screenshots/playback-review-9a1ac58ddf.webp)
+![Playback review — LowEnd Forge](https://hannes-software.com/assets/lowend-forge/screenshots/playback-review-afc9912def.webp)
 
 Follow the detected bass line against the audio timeline before exporting.
 
-## Download packages
+## Local-first by design
 
-Latest GitHub release: **v0.1.4**
+LowEnd Forge is a desktop workflow. Your working files stay on the machine unless you deliberately export or share them. The product page documents the exact capability boundary so the focused workflow can be evaluated on real evidence.
 
-- [lowend-forge-0.1.4-windows-x64-setup.exe](https://github.com/hannes-wan/lowend-forge-official/releases/download/v0.1.4/lowend-forge-0.1.4-windows-x64-setup.exe)
-- [lowend-forge-0.1.4-linux-x64.AppImage](https://github.com/hannes-wan/lowend-forge-official/releases/download/v0.1.4/lowend-forge-0.1.4-linux-x64.AppImage)
-- [lowend-forge-0.1.4-linux-x64.deb](https://github.com/hannes-wan/lowend-forge-official/releases/download/v0.1.4/lowend-forge-0.1.4-linux-x64.deb)
-- [lowend-forge-0.1.4-linux-x64.rpm](https://github.com/hannes-wan/lowend-forge-official/releases/download/v0.1.4/lowend-forge-0.1.4-linux-x64.rpm)
+## Documentation
 
-Prefer the product page if you want the full download notes, licensing details, and help articles:
+- [Editing and correcting tab](https://hannes-software.com/lowend-forge/help/editing-tab/)
+- [Export formats](https://hannes-software.com/lowend-forge/help/export-formats/)
+- [Quickstart: "your first transcription"](https://hannes-software.com/lowend-forge/help/quickstart/)
 
-- https://hannes-software.com/lowend-forge/download/
+## Frequently asked questions
 
-## Editions
+> **Community scope:** Community Edition keeps bass detection and tab viewing free; editing, quantization, projects, and export are optional licensed workflows.
 
-- **Community** — Free: Bass detection preview and tab viewing for evaluation. Editing, quantization, and export are Professional features. Key features: Chord detection, Bass detection, Bass tab viewing.
-- **Professional** — $19 lifetime: One-time professional license that unlocks export, quantization, and advanced editing. Key features: MIDI export, MusicXML export, PDF export, Quantization, Advanced editing.
-- **Team** — $49 team / 3 seats: Three-seat team bundle for one product. Key features: Three machine-bound seats, All Professional features, One billing email, Website checkout activation.
+<details>
+<summary><strong>Does LowEnd Forge create perfect bass tabs automatically?</strong></summary>
 
-## Good fit / not a good fit
+No. It creates editable bass-tab drafts from local audio. The product speeds up transcription, it doesn't replace the bassist's ear.
 
-Good fit: LowEnd Forge is a bass-first transcription workbench: isolate the low-end signal, draft four-string tab, follow the part against the waveform, correct the musical decisions, and export a chart that can leave the room.
+</details>
 
-Boundary: Not a general DAW, magic perfect transcription service, or full Guitar Pro replacement. It gives bassists an editable, reviewable starting point.
+<details>
+<summary><strong>Are audio files uploaded for transcription?</strong></summary>
 
-## Search terms this product is built around
+No. The workflow is designed for local desktop analysis — practice recordings, lessons, and song files stay on your machine.
 
-bass transcription software, MP3 to bass tab, audio to bass tab, bass fretboard trainer, bass clef notes, Soundslice alternative, Guitar Pro alternative for bass, bass and clef, bass scales, bass guitar scales
+</details>
 
-## About Hannes Software
+<details>
+<summary><strong>Who uses LowEnd Forge?</strong></summary>
 
-Hannes Software builds focused local-first desktop tools: protocol diagnostics, music practice/transcription utilities, and small-clinic operations software. The pattern is simple: solve a narrow workflow well, keep data on the user’s machine, and sell with one-time pricing instead of a subscription treadmill.
+Bass players, teachers, and transcribers who want to turn songs into editable four-string bass tab — isolate the bass, follow the waveform, correct the musical decisions, and export a chart that can leave the room.
 
-Website: https://hannes-software.com/
-Contact: support@hannes-software.com
+</details>
 
-## Repository note
+## Community, support, and security
 
-This is the official public repository for LowEnd Forge downloads, screenshots, release links, and product information. The commercial desktop application source code is not published in this repository.
+- Bugs: [open a structured bug report](https://github.com/hannes-wan/lowend-forge-official/issues/new?template=bug_report.yml)
+- Ideas: [request a focused workflow improvement](https://github.com/hannes-wan/lowend-forge-official/issues/new?template=feature_request.yml)
+- Product help: [documentation and troubleshooting](https://hannes-software.com/lowend-forge/help/)
+- Private support: [support@hannes-software.com](mailto:support@hannes-software.com)
+- Security reports: follow [SECURITY.md](SECURITY.md); do not post sensitive files, credentials, patient data, or private captures in public issues.
+
+## Official repository
+
+This is the official public distribution and community repository for LowEnd Forge: verified release links, current screenshots, documentation routes, issue intake, and security guidance. Product development happens in a private workspace; public issues here are the right place to report reproducible product behavior and request focused improvements.
