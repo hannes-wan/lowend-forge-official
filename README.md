@@ -5,7 +5,7 @@
 
 > Combine separated low-end audio, learned onset evidence, monophonic pitch tracking, and editable four-string tab.
 
-Free Community Edition bass transcription software for local audio-to-bass-tab evidence, four-string review and correction.
+Free Community Edition bass tab generator and bass transcription software for local audio-to-tab evidence, four-string review, and correction.
 
 LowEnd Forge is a bass-first transcription workbench: isolate the low-end signal, draft four-string tab, follow the part against the waveform, correct the musical decisions, and export a chart that can leave the room.
 
