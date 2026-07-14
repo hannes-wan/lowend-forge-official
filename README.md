@@ -3,7 +3,9 @@
 [![Community Edition: Free](https://img.shields.io/badge/Community_Edition-Free-16a34a?style=for-the-badge)](https://hannes-software.com/lowend-forge/download/)
 [![Windows](https://img.shields.io/badge/Windows-Desktop-2563eb?style=flat-square&logo=windows)](https://hannes-software.com/lowend-forge/download/) [![Linux](https://img.shields.io/badge/Linux-Desktop-f59e0b?style=flat-square&logo=linux)](https://hannes-software.com/lowend-forge/download/) [![Local first](https://img.shields.io/badge/Workflow-Local--first-7c3aed?style=flat-square)](https://hannes-software.com/lowend-forge/)
 
-> Extract the line. Forge the chart. Own the low end.
+> Combine separated low-end audio, learned onset evidence, monophonic pitch tracking, and editable four-string tab.
+
+Free Community Edition bass transcription software for local audio-to-bass-tab evidence, four-string review and correction.
 
 LowEnd Forge is a bass-first transcription workbench: isolate the low-end signal, draft four-string tab, follow the part against the waveform, correct the musical decisions, and export a chart that can leave the room.
 
@@ -62,6 +64,12 @@ Export the corrected draft as MIDI, MusicXML, PDF, or text. Quantize only when i
 - Community supports bass detection preview and tab viewing; Professional unlocks export, quantization, and advanced editing.
 - The local workflow is built for private rehearsal files, lesson material, band references, and records that should not be uploaded to a cloud tool.
 
+### A free Community edition without a subscription leash
+
+- Use it when a serious editable starting point saves more time than drawing every note from silence.
+- No subscription is required for the Hannes desktop license model, and export is not trapped behind a recurring plan.
+- The value is brutal and simple: analyze, follow, correct, quantize, and export without pretending software can replace a bassist's ear.
+
 ## Community Edition is genuinely useful
 
 - Chord detection
@@ -103,6 +111,13 @@ LowEnd Forge is a desktop workflow. Your working files stay on the machine unles
 ## Frequently asked questions
 
 > **Community scope:** Community Edition keeps bass detection and tab viewing free; editing, quantization, projects, and export are optional licensed workflows.
+
+<details>
+<summary><strong>What's the difference between LowEnd Forge and Soundslice or Guitar Pro for bass transcription?</strong></summary>
+
+Soundslice and Guitar Pro are powerful notation platforms built for multi-instrument playback. The Community edition is free, while the competing tool is paid commercial software; consult the vendor for current terms. Workflow details: isolate the low-end signal, draft four-string tab, edit musical decisions against the waveform, and export. See the full comparison on our blog.
+
+</details>
 
 <details>
 <summary><strong>Does LowEnd Forge create perfect bass tabs automatically?</strong></summary>
