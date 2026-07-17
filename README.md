@@ -13,16 +13,22 @@ LowEnd Forge is a bass-first transcription workbench: isolate the low-end signal
 
 [Download Community Edition](https://hannes-software.com/lowend-forge/download/) · [Product guide](https://hannes-software.com/lowend-forge/) · [Help](https://hannes-software.com/lowend-forge/help/) · [Report a bug](https://github.com/hannes-wan/lowend-forge-official/issues/new?template=bug_report.yml)
 
-## Download LowEnd Forge 0.1.7
+## Download LowEnd Forge 0.1.8
 
 | Platform | Package | Use it when |
 | --- | --- | --- |
-| Linux x64 (APPIMAGE) | [lowend-forge-0.1.7-linux-x64.AppImage](https://github.com/hannes-wan/lowend-forge-official/releases/download/v0.1.7/lowend-forge-0.1.7-linux-x64.AppImage) | Portable Linux desktop package |
-| Linux x64 (DEB) | [lowend-forge-0.1.7-linux-x64.deb](https://github.com/hannes-wan/lowend-forge-official/releases/download/v0.1.7/lowend-forge-0.1.7-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
-| Linux x64 (RPM) | [lowend-forge-0.1.7-linux-x64.rpm](https://github.com/hannes-wan/lowend-forge-official/releases/download/v0.1.7/lowend-forge-0.1.7-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
-| Windows x64 | [lowend-forge-0.1.7-windows-x64-setup.exe](https://github.com/hannes-wan/lowend-forge-official/releases/download/v0.1.7/lowend-forge-0.1.7-windows-x64-setup.exe) | Guided Windows installer |
+| Linux x64 (APPIMAGE) | [lowend-forge-0.1.8-linux-x64.AppImage](https://github.com/hannes-wan/lowend-forge-official/releases/download/v0.1.8/lowend-forge-0.1.8-linux-x64.AppImage) | Portable Linux desktop package |
+| Linux x64 (DEB) | [lowend-forge-0.1.8-linux-x64.deb](https://github.com/hannes-wan/lowend-forge-official/releases/download/v0.1.8/lowend-forge-0.1.8-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
+| Linux x64 (RPM) | [lowend-forge-0.1.8-linux-x64.rpm](https://github.com/hannes-wan/lowend-forge-official/releases/download/v0.1.8/lowend-forge-0.1.8-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
+| Windows x64 | [lowend-forge-0.1.8-windows-x64-setup.exe](https://github.com/hannes-wan/lowend-forge-official/releases/download/v0.1.8/lowend-forge-0.1.8-windows-x64-setup.exe) | Guided Windows installer |
 
 Checksums, installation notes, and the complete platform matrix live on the [official download page](https://hannes-software.com/lowend-forge/download/).
+
+## System requirements
+
+- **Windows:** Windows 10 or Windows 11 on x64.
+- **Linux:** a mainstream x64 distribution with glibc 2.35 or newer, such as Ubuntu 22.04+, Debian 12+, Fedora, or openSUSE (AppImage, DEB, and RPM packages).
+- **Disk space:** a few hundred megabytes free for the application and its bundled resources.
 
 ## Why LowEnd Forge exists
 
@@ -61,10 +67,10 @@ Export the corrected draft as MIDI, MusicXML, PDF, or text. Quantize only when i
 ### The chart leaves cleanly
 
 - Export MIDI for playback or DAW work, MusicXML for notation tools, PDF for lessons, and text when a simple tab handoff is enough.
-- Community supports bass detection preview and tab viewing; Professional unlocks export, quantization, and advanced editing.
+- Community supports bass detection preview and tab viewing; Optional licensing unlocks export, quantization, and advanced editing.
 - The local workflow is built for private rehearsal files, lesson material, band references, and records that should not be uploaded to a cloud tool.
 
-### A free Community edition without a subscription leash
+### A free Community Edition without a subscription leash
 
 - Use it when a serious editable starting point saves more time than drawing every note from silence.
 - No subscription is required for the Hannes desktop license model, and export is not trapped behind a recurring plan.
@@ -115,7 +121,7 @@ LowEnd Forge is a desktop workflow. Your working files stay on the machine unles
 <details>
 <summary><strong>What's the difference between LowEnd Forge and Soundslice or Guitar Pro for bass transcription?</strong></summary>
 
-Soundslice and Guitar Pro are powerful notation platforms built for multi-instrument playback. The Community edition is free, while the competing tool is paid commercial software; consult the vendor for current terms. Workflow details: isolate the low-end signal, draft four-string tab, edit musical decisions against the waveform, and export. See the full comparison on our blog.
+Soundslice and Guitar Pro are powerful notation platforms built for multi-instrument playback. The Community Edition is free, while the competing tool is paid commercial software; consult the vendor for current terms. Workflow details: isolate the low-end signal, draft four-string tab, edit musical decisions against the waveform, and export. See the [full comparison](https://hannes-software.com/lowend-forge/blogs/lowend-forge-vs-soundslice-guitar-pro-musescore/).
 
 </details>
 
@@ -130,6 +136,13 @@ No. It creates editable bass-tab drafts from local audio. The product speeds up 
 <summary><strong>Are audio files uploaded for transcription?</strong></summary>
 
 No. The workflow is designed for local desktop analysis — practice recordings, lessons, and song files stay on your machine.
+
+</details>
+
+<details>
+<summary><strong>How much does LowEnd Forge cost?</strong></summary>
+
+The download is free for basic audio-to-tab draft preview. This is a paid subscription service; consult the vendor for current access terms.
 
 </details>
 

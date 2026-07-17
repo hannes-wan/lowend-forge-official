@@ -1,20 +1,20 @@
-# LowEnd Forge 0.1.7
+# LowEnd Forge 0.1.8
 
 **LowEnd Forge Community Edition is free to download and use.** This release keeps the core desktop workflow available without a subscription requirement.
 
 ## What stands out in this release
 
-- Basic Pitch onset evidence and the full CREPE monophonic pitch model work together to correct octave harmonics and recover short, high-confidence ghost notes.
-- The recognition-only stem uses a true-silence timed gate, compression, excitation, and broad midrange EQ while playback keeps the untouched separated bass.
-- Repeated-pitch notes split only when learned onset evidence and a real envelope reset agree, avoiding sustain fragmentation and gate-closing artifacts.
-- Installers bundle the CREPE ONNX model with MIT provenance and retain the HTDemucs, Basic Pitch, and ONNX Runtime resource chain.
+- Bass transcription now combines official Basic Pitch onset evidence with CREPE periodicity and bass-specific reattack logic, recovering short or swallowed notes without splitting sustained tones on weak evidence.
+- Portable .lforge projects can embed and integrity-check the original source plus isolated bass and accompaniment stems alongside the complete editable session.
+- The practice mixer now plays the real bass and backing stems with independent gain, mute, and solo control through the shared realtime playback engine.
+- Cancellation is end-to-end and race-safe: stale progress or completion from a cancelled analysis can no longer overwrite a replacement job.
 
 ## Choose the right package
 
-- **Linux x64 (APPIMAGE):** `lowend-forge-0.1.7-linux-x64.AppImage` — Portable Linux desktop package
-- **Linux x64 (DEB):** `lowend-forge-0.1.7-linux-x64.deb` — Debian, Ubuntu, Mint, and compatible systems
-- **Linux x64 (RPM):** `lowend-forge-0.1.7-linux-x64.rpm` — Fedora, RHEL, openSUSE, and compatible systems
-- **Windows x64:** `lowend-forge-0.1.7-windows-x64-setup.exe` — Guided Windows installer
+- **Linux x64 (APPIMAGE):** `lowend-forge-0.1.8-linux-x64.AppImage` — Portable Linux desktop package
+- **Linux x64 (DEB):** `lowend-forge-0.1.8-linux-x64.deb` — Debian, Ubuntu, Mint, and compatible systems
+- **Linux x64 (RPM):** `lowend-forge-0.1.8-linux-x64.rpm` — Fedora, RHEL, openSUSE, and compatible systems
+- **Windows x64:** `lowend-forge-0.1.8-windows-x64-setup.exe` — Guided Windows installer
 
 ## Before you install
 
