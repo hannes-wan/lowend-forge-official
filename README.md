@@ -9,7 +9,7 @@ Free Community Edition bass tab generator and bass transcription software for lo
 
 LowEnd Forge is a bass-first transcription workbench: isolate the low-end signal, draft four-string tab, follow the part against the waveform, correct the musical decisions, and export a chart that can leave the room.
 
-**LowEnd Forge Community Edition is free to download and use.** Bass detection preview and tab viewing for evaluation. Editing, quantization, and export are Professional features.
+**LowEnd Forge Community Edition is free to download and use.** Bass detection preview and tab viewing for evaluation. Optional licensed workflows add advanced editing, quantization, and the visible MIDI and PDF export actions.
 
 [Download Community Edition](https://hannes-software.com/lowend-forge/download/) · [Product guide](https://hannes-software.com/lowend-forge/) · [Help](https://hannes-software.com/lowend-forge/help/) · [Report a bug](https://github.com/hannes-wan/lowend-forge-official/issues/new?template=bug_report.yml)
 
@@ -48,9 +48,9 @@ Run one focused pass that isolates the bass role, traces the low-register line, 
 
 Review G-D-A-E string lanes with fret positions, waveform timing, chord regions, and automatic follow playback in one dense workbench.
 
-### MIDI, MusicXML, and PDF export
+### MIDI and PDF handoff
 
-Export the corrected draft as MIDI, MusicXML, PDF, or text. Quantize only when it helps the chart read like music.
+Use the current desktop export actions to write MIDI for pitch-and-timing work or PDF for a rendered bass-tab page. A separate MusicXML backend exists only as a limited compatibility draft and is not exposed by the current UI.
 
 ### The first pass is bass-first
 
@@ -66,9 +66,9 @@ Export the corrected draft as MIDI, MusicXML, PDF, or text. Quantize only when i
 
 ### The chart leaves cleanly
 
-- Export MIDI for playback or DAW work, MusicXML for notation tools, PDF for lessons, and text when a simple tab handoff is enough.
-- Community supports bass detection preview and tab viewing; Optional licensing unlocks export, quantization, and advanced editing.
-- The local workflow is built for private rehearsal files, lesson material, band references, and records that should not be uploaded to a cloud tool.
+- Use the visible MIDI action for playback or DAW work and PDF for a rendered lesson or rehearsal chart.
+- The backend contains a limited single-measure MusicXML compatibility renderer, but the current desktop UI does not expose it and the file is not a tab handoff.
+- Community supports bass detection preview and tab viewing; optional licensed workflows add export, quantization, and advanced editing.
 
 ### A free Community Edition without a subscription leash
 
@@ -111,7 +111,7 @@ LowEnd Forge is a desktop workflow. Your working files stay on the machine unles
 ## Documentation
 
 - [Editing and correcting tab](https://hannes-software.com/lowend-forge/help/editing-tab/)
-- [Export formats](https://hannes-software.com/lowend-forge/help/export-formats/)
+- [Export formats and their current boundaries](https://hannes-software.com/lowend-forge/help/export-formats/)
 - [Quickstart: "your first transcription"](https://hannes-software.com/lowend-forge/help/quickstart/)
 
 ## Frequently asked questions
@@ -121,7 +121,7 @@ LowEnd Forge is a desktop workflow. Your working files stay on the machine unles
 <details>
 <summary><strong>What's the difference between LowEnd Forge and Soundslice or Guitar Pro for bass transcription?</strong></summary>
 
-Soundslice and Guitar Pro are powerful notation platforms built for multi-instrument playback. The Community Edition is free, while the competing tool is paid commercial software; consult the vendor for current terms. Workflow details: isolate the low-end signal, draft four-string tab, edit musical decisions against the waveform, and export. See the [full comparison](https://hannes-software.com/lowend-forge/blogs/lowend-forge-vs-soundslice-guitar-pro-musescore/).
+Soundslice and Guitar Pro are powerful notation platforms built for multi-instrument playback. The Community Edition is free. Optional licensed capabilities add advanced workflows; see the product page for current access details. Workflow details: isolate the low-end signal, draft four-string tab, edit musical decisions against the waveform, and export. See the [full comparison](https://hannes-software.com/lowend-forge/blogs/lowend-forge-vs-soundslice-guitar-pro-musescore/).
 
 </details>
 
@@ -142,7 +142,7 @@ No. The workflow is designed for local desktop analysis — practice recordings,
 <details>
 <summary><strong>How much does LowEnd Forge cost?</strong></summary>
 
-The download is free for basic audio-to-tab draft preview. This is a paid subscription service; consult the vendor for current access terms.
+The Community Edition is free for bass-detection preview and tab review. Optional licensed export and editing workflows use the current in-product or store terms. There is no recurring subscription.
 
 </details>
 
