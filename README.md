@@ -9,7 +9,7 @@ Free Community Edition bass tab generator and bass transcription software for lo
 
 LowEnd Forge is a bass-first transcription workbench: isolate the low-end signal, draft four-string tab, follow the part against the waveform, correct the musical decisions, and export a chart that can leave the room.
 
-**LowEnd Forge Community Edition is free to download and use.** Bass detection preview and tab viewing for evaluation. Optional licensed workflows add advanced editing, quantization, and the visible MIDI and PDF export actions.
+**LowEnd Forge Community Edition is free to download and use.** Bass detection preview and tab viewing for evaluation. Editing, quantization, and export are optional licensed workflows.
 
 [Download Community Edition](https://hannes-software.com/lowend-forge/download/) · [Product guide](https://hannes-software.com/lowend-forge/) · [Help](https://hannes-software.com/lowend-forge/help/) · [Report a bug](https://github.com/hannes-wan/lowend-forge-official/issues/new?template=bug_report.yml)
 
